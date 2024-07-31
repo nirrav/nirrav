@@ -1,8 +1,19 @@
-- 👋 Hi, I’m @nirrav
-- 👀 I’m interested in web developement
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on various different projects
-- 📫 How to reach me nirravsawlaadobe@gmail.com
+# Hello, I'm Nirrav! 👋
+
+## About Me
+
+I'm a web development enthusiast with a passion for building innovative projects. My interests include:
+
+* Web Development 👀
+* Currently learning Flutter 🌱
+
+## Collaboration
+
+I'm excited to collaborate on various projects and learn from others. If you have an idea or a project you'd like to work on together, feel free to reach out! 💞️
+
+## Get in Touch
+
+You can contact me at [nirravsawlaadobe@gmail.com](mailto:nirravsawlaadobe@gmail.com) 📫
 
 <!---
 nirrav/nirrav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
